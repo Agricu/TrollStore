@@ -1,3 +1,11 @@
+
+
+# TrollStore 2.0.12-汉化版本
+
+## 进入_build文件夹下载TrollStore.tar，发送到TrollStore打开
+
+
+
 # TrollStore
 
 TrollStore is a permasigned jailed app that can permanently install any IPA you open in it.
